@@ -1,1 +1,1 @@
-Contenido archivo 5
+Hola ! Este es el ejericio de la clase 6 , trabajo en equipo de Pao y Cami .git add nombre-del-archivo-modifi cado.txtContenido archivo 5
