@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Hola ! Este es el ejericio de la clase 6 , trabajo en equipo de Pao y Cami .git add nombre-del-archivo-modifi cado.txt
+=======
+Estoy agregando información adicional al documento que creó Camila
+>>>>>>> 976cb20f0a562a69d8bee75680b2809f6125f730
